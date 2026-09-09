@@ -30,6 +30,7 @@
   { "name": "GL-28 Belt-Fed Grenade Launcher", "sequence": ["S", "A", "W", "A", "W", "W"] },
   { "name": "FLAM-80 Cremator", "sequence": ["S", "D", "S", "W", "S", "D"] },
   { "name": "MGX-42 Bullet Storm", "sequence": ["S", "A", "S", "D", "W", "A"] },
+  { "name": "40-K Meltagun", "sequence": ["S", "A", "W", "A", "S"] },
 
 
 
@@ -55,6 +56,7 @@
   { "name": "Eagle Smoke Strike", "sequence": ["W", "D", "W", "S"] },
   { "name": "Eagle 110mm Rocket Pods", "sequence": ["W", "D", "W", "A"] },
   { "name": "Eagle 500kg Bomb", "sequence": ["W", "D", "S", "S", "S"] },
+  { "name": "Eagle Gas Strike", "sequence": ["W", "D", "S", "D"] },
 
 
 
